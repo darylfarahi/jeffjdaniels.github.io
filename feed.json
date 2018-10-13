@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jeffjdaniels",
+    "description": "",
+    "home_page_url": "http://jeffjdaniels.tk",
+    "feed_url": "http://jeffjdaniels.tk/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "daniels"
+    },
+    "items": [
+        {
+            "id": "http://jeffjdaniels.tk/hai.html",
+            "url": "http://jeffjdaniels.tk/hai.html",
+            "title": "Hai",
+            "summary": "hai",
+            "content_html": "hai",
+            "image": "http://jeffjdaniels.tk/media/posts/1/",
+            "author": {
+                "name": "daniels"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-14T06:39:27+07:00",
+            "date_modified": "2018-10-14T06:39:27+07:00"
+        }
+    ]
+}

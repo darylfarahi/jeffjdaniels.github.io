@@ -1,1 +1,0 @@
-# jeffjdaniels.github.io
